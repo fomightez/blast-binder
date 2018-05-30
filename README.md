@@ -7,10 +7,10 @@ Click any `launch binder` badge on this page to run command line-based BLAST ins
 
 ------
 
-***BLAST: a software suite.***
+***BLAST: Basic Local Alignment Search Tool (BLAST+) command-line applications.***
 
-This repository is for running BLAST in Jupyter environment provided by [MyBinder.org](https://mybinder.org/).  
-Additionally, having BLAST working inside the Jupyter environment with interactive Python adds some convenient features that are illustrated. A utility script for moving command line-based BLAST results into Python is demonstrated.  
+This repository is for running BLAST+ in Jupyter environment provided by [MyBinder.org](https://mybinder.org/).  
+Additionally, having BLAST+ working inside the Jupyter environment with interactive Python adds some convenient features that are illustrated. A utility script for moving command line-based BLAST results into Python is demonstrated.  
 
 -------
 
