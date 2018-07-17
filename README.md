@@ -53,7 +53,7 @@ Technical Details
 
 This repository is set up to make use of the binder service offered by [MyBinder.org](https://mybinder.org/). See their site for more information about Binder.
 
-Developed mainly from combining much of the binderized repo from [here](https://github.com/fomightez/qgrid-notebooks) with the ability to also run [PatMatch](https://github.com/fomightez/patmatch-binder).
+Developed mainly from combining much of the binderized repo from [here](https://github.com/fomightez/qgrid-notebooks) with the ability to also run PatMatch, see [here](https://github.com/fomightez/patmatch-binder) for information about PatMatch and luanchable Jupyter notebooks demonstrating its use.
 
 Click this button below to begin using BLAST (or PatMatch, as well):
 
