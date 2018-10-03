@@ -59,6 +59,8 @@ This repository is set up to make use of the binder service offered by [MyBinder
 
 Developed mainly from combining much of the binderized repo from [here](https://github.com/fomightez/qgrid-notebooks) with the ability to also run PatMatch, see [here](https://github.com/fomightez/patmatch-binder) for information about PatMatch and launchable Jupyter notebooks demonstrating its use.
 
+I borrrowed the 'warning' highlight/introductory text about notebooks at the top of the included notebook from Tim Sherratt's notebook [here](https://github.com/GLAM-Workbench/te-papa-api/blob/master/Exploring-the-Te-Papa-collection-API.ipynb).
+
 Click this button below to begin using BLAST (or PatMatch, as well):
 
 [![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fomightez/blast-binder/master?filepath=BLAST%20on%20Command%20Line%20and%20Integrating%20with%20Python.ipynb)
