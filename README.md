@@ -42,6 +42,10 @@ This repository is set up to allow running the command line version of BLAST sof
 
 In the notebooks that can be launched, I have added some examples illustrating how to use the program and process the results easily with Python and convert to other forms. **Additionally, useful resources for using command line BLAST are in those notebooks.** Alternatively, the notebook with most of resources can be viewed statically [here](https://nbviewer.jupyter.org/github/fomightez/blast-binder/blob/master/BLAST%20on%20Command%20Line%20and%20Integrating%20with%20Python.ipynb). 
 
+**The Binder-luanchable version too limiting for your needs?**
+
+NCBI has made available an Amazon Machine Image (AMI) that will generate a remote cloud compute instance already set to run standalone BLAST, see [here](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=CloudBlast). Additional documentation is [here](http://ncbi.github.io/blast-cloud/).
+
 Obviously, web-based BLAST is also available. Here are some of my favorite web-based BLAST resources:
 
 * [NCBI's main BLAST page](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
