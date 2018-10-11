@@ -1,6 +1,6 @@
 # blast-binder
 
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fomightez/blast-binder/master?filepath=BLAST%20on%20Command%20Line%20and%20Integrating%20with%20Python.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/blast-binder/master?filepath=BLAST%20on%20Command%20Line%20and%20Integrating%20with%20Python.ipynb)
 
 *tl;dr:*  
 Click any `launch binder` badge on this page to run command line-based BLAST inside your browser.
@@ -63,4 +63,4 @@ I borrrowed the 'warning' highlight/introductory text about notebooks at the top
 
 Click this button below to begin using BLAST (or PatMatch, as well):
 
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fomightez/blast-binder/master?filepath=BLAST%20on%20Command%20Line%20and%20Integrating%20with%20Python.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/blast-binder/master?filepath=BLAST%20on%20Command%20Line%20and%20Integrating%20with%20Python.ipynb)
