@@ -10,14 +10,14 @@ Click any `launch binder` badge on this page to run command line-based BLAST ins
 ***BLAST: Basic Local Alignment Search Tool (BLAST+) command-line applications.***
 
 This repository is for running BLAST+ in Jupyter environment provided by [MyBinder.org](https://mybinder.org/).  
-Additionally, having BLAST+ working inside the Jupyter environment with interactive Python adds some convenient features that are illustrated. A utility script for moving command line-based BLAST results into Python is demonstrated.  
+Additionally, having BLAST+ working inside the Jupyter environment with interactive Python adds some convenient features that are illustrated. A utility script for moving command line-based BLAST results into Python is also demonstrated.  
 
 -------
 
 Software
 --------
 
-The BLAST software will be installed already in each active session launched from this repo. The BLAST software is available directly from the National Library of Medicine under <a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download">BLAST+ executables</a>.
+The BLAST software will be installed already in each active session launched from this repository. The BLAST software is available directly from the National Library of Medicine under <a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download">BLAST+ executables</a>.
 
 
 **BLAST is a registered trademark of the National Library of Medicine**, see [here](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=References).
