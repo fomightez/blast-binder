@@ -40,7 +40,7 @@ Usage
 
 This repository is set up to allow running the command line version of BLAST software after pressing the `launch binder` button above or below. The target use case is when you want to run custom BLAST or process a lot of sequences.
 
-In the notebooks that can be launched, I have added some examples illustrating how to use the program and process the results easily with Python and convert to other forms. **Additionally, useful resources for using command line BLAST are in those notebooks.** Alternatively, the notebook with most of resources can be viewed statically [here](https://nbviewer.jupyter.org/github/fomightez/blast-binder/blob/master/BLAST%20on%20Command%20Line%20and%20Integrating%20with%20Python.ipynb). 
+In the notebooks that can be launched, I have added some examples illustrating how to use the program and process the results easily with Python and convert to other forms. **Additionally, useful resources for using command line BLAST are in those notebooks.** Alternatively, the notebook with most of resources can be viewed statically [here](https://nbviewer.jupyter.org/github/fomightez/blast-binder/blob/master/notebooks/BLAST%20on%20Command%20Line%20and%20Integrating%20with%20Python.ipynb). The ['Credits/Resources' section right at the top](https://nbviewer.jupyter.org/github/fomightez/blast-binder/blob/master/notebooks/BLAST%20on%20Command%20Line%20and%20Integrating%20with%20Python.ipynb) is a good place to start.
 
 **The Binder-luanchable version too limiting for your needs?**
 
