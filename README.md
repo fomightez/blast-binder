@@ -50,6 +50,7 @@ Obviously, web-based BLAST is also available. Here are some of my favorite web-b
 
 * [NCBI's main BLAST page](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 * [Saccharomyces Genome Database web interface](https://www.yeastgenome.org/blast-sgd)
+* [SequenceServer](http://www.sequenceserver.com/) lets you set up a BLAST+ server for individual use or for sharing datasets and lists several community databases that use it for a querying mechanism.
 
 
 Technical Details
