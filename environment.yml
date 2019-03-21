@@ -44,3 +44,4 @@ dependencies:
   - perl-time-hires=1.9728
   - perl-parse-recdescent
   - perl-findbin 
+  - papermill
