@@ -6,13 +6,15 @@ from contextlib import closing
 import requests
 
 try:
-    from urlparse import urlparse
-    from UserDict import DictMixin
-    from urllib import urlopen
-    from urllib import urlencode
+    import sys
+    from urllib.parse import urlparse, urlunparse, parse_qs, urlencode
+    from collections.abc import MutableMapping as DictMixin
+    from collections import OrderedDict
+    from urllib.request import urlopen
 except ImportError:
     from urllib.parse import urlparse
     from urllib.parse import urlencode
+    from .odict import OrderedDict
     from collections import MutableMapping as DictMixin
     from urllib.request import urlopen
 
