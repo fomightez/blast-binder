@@ -46,6 +46,7 @@ dependencies:
   - perl-parse-recdescent
   - perl-findbin 
   - papermill
+  - agat
   - pip
   - pip:
     - bash_kernel==0.7.1
